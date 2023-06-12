@@ -1,4 +1,4 @@
-import View from './view';
+import View from './View';
 import previewView from './previewView.js';
 
 class bookmarksView extends View {
